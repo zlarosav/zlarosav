@@ -5,7 +5,7 @@ Web developer & Game developer (en proceso).
 
 * 🖥️  Puedes ver mi portafolio aquí [En proceso](http://github.com/zlarosav)
 * ✉️  Contáctame en [zlarosav@gmail.com](mailto:zlarosav@gmail.com)
-* 🧠  Tengo 2 años de experiencia.
+* 🧠  Tengo 2 años de experiencia, especialmente con JavaScript.
 
 <a href="https://www.github.com/zlarosav" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/zlarosav?logo=github&style=for-the-badge&color=10b981&labelColor=171717" /></a><a href="https://www.x.com/zlarosav" target="_blank" rel="noreferrer"><img

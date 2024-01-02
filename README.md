@@ -11,7 +11,7 @@
 
 ---
 
-Hola. Puedes llamarme "Nev". Soy un desarrollador de Bots de **[Discord](https://discord.com/)** con Node.js.
+Hola. Puedes llamarme **Nev**. Soy un desarrollador de Bots de **[Discord](https://discord.com/)** con Node.js.
 
 * 🖥️  Puedes ver mi portafolio aquí [En proceso](http://github.com/zlarosav)
 * ✉️  Contáctame en [zlarosav@gmail.com](mailto:zlarosav@gmail.com)
@@ -30,6 +30,9 @@ Hola. Puedes llamarme "Nev". Soy un desarrollador de Bots de **[Discord](https:/
 <a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/30/000000/mongodb.png"/></a>
 <a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/30/000000/npm.png"/></a>
 
+### Conocimiento básico
+
+> <a href="https://www.java.com/es/"><img src="https://icons8.com/icon/GPfHz0SM85FX/java"/></a> 
 
 ### Discord
 

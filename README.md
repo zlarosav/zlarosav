@@ -3,10 +3,10 @@
 # Hi, I'm Nev ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 <div>
-  <a href="https://github.com/Mateo-tem"><img src="https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/zlarosav" alt="GitHub Badge"/></a>
-  <a href="https://twitter.com/MateoTem_"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=1da1f2&link=https://twitter.com/zlarosav" alt="Twitter Badge"/></a>
-  <a href="https://discord.com/users/910543706489237544"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2&link=https://discord.com/users/778005721148686386" alt="Discord Badge"/></a>
-<a href="https://paypal.me/MateoDeveloper"><img src="https://img.shields.io/badge/-PayPal-000000?style=flat-square&labelColor=000000&logo=paypal&logoColor=white&link=https://paypal.me/zlarosav" alt="PayPal Badge"/></a>
+  <a href="https://github.com/zlarosav"><img src="https://img.shields.io/badge/-Github-000000?style=flat-square&labelColor=000000&logo=Github&logoColor=white&link=https://github.com/zlarosav" alt="GitHub Badge"/></a>
+  <a href="https://twitter.com/zlarosav"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=1da1f2&link=https://twitter.com/zlarosav" alt="Twitter Badge"/></a>
+  <a href="https://discord.com/users/778005721148686386"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2&link=https://discord.com/users/778005721148686386" alt="Discord Badge"/></a>
+<a href="https://paypal.me/zlarosav"><img src="https://img.shields.io/badge/-PayPal-000000?style=flat-square&labelColor=000000&logo=paypal&logoColor=white&link=https://paypal.me/zlarosav" alt="PayPal Badge"/></a>
 </div>
 
 ---

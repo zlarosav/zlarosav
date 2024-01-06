@@ -7,6 +7,7 @@
   <a href="https://twitter.com/zlarosav"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=1da1f2&link=https://twitter.com/zlarosav" alt="Twitter Badge"/></a>
   <a href="https://discord.com/users/778005721148686386"><img src="https://img.shields.io/badge/-Discord-000000?style=flat-square&labelColor=000000&logo=discord&logoColor=5568f2&link=https://discord.com/users/778005721148686386" alt="Discord Badge"/></a>
 <a href="https://paypal.me/zlarosav"><img src="https://img.shields.io/badge/-PayPal-000000?style=flat-square&labelColor=000000&logo=paypal&logoColor=white&link=https://paypal.me/zlarosav" alt="PayPal Badge"/></a>
+<a href="https://wakatime.com/@fae5538b-1de0-4b7d-b56c-73c358b7cd32"><img src="https://wakatime.com/badge/user/fae5538b-1de0-4b7d-b56c-73c358b7cd32.svg" alt="Total time coded since Jul 31 2023" /></a>
 </div>
 
 ---

@@ -17,8 +17,7 @@ Hola. Puedes llamarme **Nev**. Soy un desarrollador de Bots de **[Discord](https
 * 🖥️  Puedes ver mi portafolio aquí [En proceso](http://github.com/zlarosav)
 * ✉️  Contáctame en [zlarosav@gmail.com](mailto:zlarosav@gmail.com)
 * 🧠  Tengo 2 años de experiencia, especialmente con JavaScript.
-* 🌐  Mi objetivo actual es aumentar mis habilidades como desarrollador web.
-* 🎮  Actualmente me encuentro aprendiendo sobre desarrollo de videojuegos con Phaser 2D.
+* 🌐  Mi objetivo actual es desarrollar mis habilidades como Full-Stack Developer.
  
 ### Skills
 

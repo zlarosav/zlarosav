@@ -16,7 +16,7 @@ Hola. Puedes llamarme **Nev**. Soy un desarrollador de Bots de **[Discord](https
 
 * 🖥️  Puedes ver mi portafolio aquí [En proceso](http://github.com/zlarosav)
 * ✉️  Contáctame en [zlarosav@gmail.com](mailto:zlarosav@gmail.com)
-* 🧠  Tengo 2 años de experiencia, especialmente con JavaScript.
+* 🧠  Tengo 3 años de experiencia, especialmente con JavaScript.
 * 🌐  Mi objetivo actual es desarrollar mis habilidades como Full-Stack Developer.
  
 ### Skills
@@ -63,8 +63,8 @@ Hola. Puedes llamarme **Nev**. Soy un desarrollador de Bots de **[Discord](https
 </a>
   </p>
   <p align="right">
-      <a href="https://discord.com/invite/YKjDPGTAzY" target="_blank">
-  <img width="45%" align="left" src="https://cdn.discordapp.com/attachments/1125702005197897760/1127984445509607495/BANNER.jpg">
+      <a href="https://www.twitch.tv/nevtr4l" target="_blank">
+  <img width="45%" align="left" src="https://github.com/zlarosav/zlarosav/blob/main/Images/banner.png">
 </a>
   </p>
 </p>

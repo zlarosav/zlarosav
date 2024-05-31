@@ -34,13 +34,14 @@ Hola. Puedes llamarme **Nev**. Soy un desarrollador de Bots de **[Discord](https
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/zlarosav/zlarosav/blob/main/Images/vitejs.svg" width="36" height="36" alt="Vite" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/zlarosav/zlarosav/blob/main/Images/tailwindcss.svg" width="36" height="36" alt="Tailwind CSS" /></a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://github.com/zlarosav/zlarosav/blob/main/Images/cpp.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 
 ### Conocimiento básico
 
 > <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://github.com/zlarosav/zlarosav/blob/main/Images/nextjs.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/zlarosav/zlarosav/blob/main/Images/express.svg" width="36" height="36" alt="Express" /></a>

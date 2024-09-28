@@ -14,7 +14,7 @@ I'm a backend-focused developer with 4 years of experience, passionate about cod
 ### About me
 
 - 👨‍💻 **Backend Developer:** Specialized in Node.js, JavaScript, and backend technologies.
-- 🧠 **Algorithms and Competitions:** I actively practice algorithms on Codeforces and enjoy solving challenging programming problems.
+- 🧠 **Algorithms:** I actively practice algorithms on Codeforces and enjoy solving challenging programming problems.
 - 🌱 **Versatile Skills:** I have experience in frontend development and adapt quickly to any programming-related challenge.
 - 🎮 **Dreams and Projects:** I've always dreamed of creating a video game where I can apply complex and creative algorithms.
 

@@ -20,7 +20,7 @@ I'm a backend-focused developer with 4 years of experience, passionate about cod
 
 ### Contact
 - 📧 **Email:** [zlarosav@gmail.com](mailto:zlarosav@gmail.com?subject=Hello%20Nev&body=I'm%20interested%20in%20your%20work!)
-- 🌐 **Portfolio:** [In progress]()
+- 🌐 **Portfolio:** In progress
 
 ### Skills
 

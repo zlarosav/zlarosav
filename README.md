@@ -29,7 +29,6 @@ I'm a backend-focused developer with 4 years of experience, passionate about cod
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/zlarosav/zlarosav/blob/main/Images/npm.svg" width="36" height="36" alt="Npm" /></a>
-<a href="https://pm2.keymetrics.io/" target="_blank" rel="noreferrer"><img src="https://github.com/zlarosav/zlarosav/blob/main/Images/pm2.svg" width="36" height="36" alt="Pm2" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://github.com/zlarosav/zlarosav/blob/main/Images/github.svg" width="36" height="36" alt="GitHub" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
